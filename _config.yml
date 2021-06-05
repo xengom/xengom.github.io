@@ -276,6 +276,9 @@ defaults:
       comments: true
       share: true
       related: true
+      category:
+      tags:
+      toc: true
 
   # _pages
   - scope:
