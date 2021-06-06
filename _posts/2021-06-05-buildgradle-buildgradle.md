@@ -141,7 +141,7 @@ dependencies {
 
 작성이 완료되면 우상단에 gradle 아이콘이 뜨므로 클릭하여 설정을 반영해준다.
 
-![gradleload](/assets/images/SpringBoot/1/Gradleload.PNG)
+![gradleload](/assets/images/SpringBoot/1/GradleLoad.PNG)
 
 설정이 전부 반영되었으면 우상단 gradle탭으로 들어가 의존성들이 잘 받아졌는지 확인
 

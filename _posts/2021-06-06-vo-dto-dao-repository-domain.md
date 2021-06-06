@@ -39,6 +39,7 @@ DTO는 같은 시스템내 보다는 **다른 시스템으로 데이터를 전�
 ###  DAO vs Repository
 사실 이 부분은 DDD(Domain Driven Design)에 대한 공부가 좀 더 필요한 듯하다... 추후 추가 포스팅할 예정..
 
+공부하고 있는 책에 따르면 ibatis나 MyBatis에서는 DAO로 DB Layer에 접근하고, JPA에서는 Repository로 접근한다고 한다.
 #### DAO
 영구저장소(Oracle, MySQL,....etc...)에 접근할 때 특정 API사용시 저장소를 바꿀 때 API에 따라 구현을 변경해야 하기 때문에 API와 로직 사이에서 어댑터같은 역할을 해줄 것이 필요로 해 생긴 것이 DAO.
 
