@@ -11,7 +11,7 @@ name                     : "DeC" # 맨 하단 이름 찍히는 영역
 description              : "Studying Codes" # Meta 태그에 들어가는 영역
 url                      : "https://xengom.com" # GitBlog 호스트 주소
 baseurl                  :
-repository               : "xengom/xengom.github.com" # GitHub username/repo-name
+repository: "xengom/blog-comment"
 teaser                   : "/assets/images/icon.jpg" # 홈페이지 기본 티져 이미지
 logo                     : "/assets/images/1.jpg"# 타이틀 옆에 작게 들어갈 이미지.
 masthead_title           : "DeCoding" # 홈페이지 최 상탄에 들어갈 타이틀
@@ -20,17 +20,15 @@ words_per_minute         : 200 # 해당 포스트 읽는데 걸리는 시간을 
 
 # 댓글 관련 부분
 comments:
-  repository: "xengom/blog-comment"
   provider: "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   utterances:
     theme: "github-light" #"github-dark"
-    issue_term: "title"
+    issue_term: "pathname"
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
-  utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
