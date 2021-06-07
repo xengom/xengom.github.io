@@ -70,6 +70,6 @@ annotationProcessor('org.projectlombok:lombok')
 testAnnotationProcessor('org.projectlombok:lombok')
 ~~~
 
-![결과](/assets/images/SpringBoot/3/testresult.PNG)
+![결과](/assets/images/3/testresult.PNG)
 
 보아하니 따로 testCompile용 lombok 의존성을 넣어줘야 하나보다..

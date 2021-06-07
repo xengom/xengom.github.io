@@ -12,7 +12,7 @@ toc_label: 목차
 
 ## 1. 왜 Initializr를 사용하지 않는가
 
-![Spring Initializr](/assets/images/SpringBoot/1/Initializr.PNG)
+![Spring Initializr](/assets/images/1/Initializr.PNG)
 
 학원 수업에서도 Initializr를 사용하고 있으나 자잘한 오류 발생시, 스스로 오류를 해결하기 어려웠습니다. 결국 구글링을 통해 build.gradle 파일을 수정하는 식으로 대부분의 오류는 해결할 수 있었지만 처음부터 build.gradle 로 설정했으면 오류가 생기지 않았겠지만..
 
@@ -143,11 +143,11 @@ dependencies {
 
 작성이 완료되면 우상단에 gradle 아이콘이 뜨므로 클릭하여 설정을 반영해준다.
 
-![gradleload](/assets/images/SpringBoot/1/GradleLoad.PNG)
+![gradleload](/assets/images/1/GradleLoad.PNG)
 
 설정이 전부 반영되었으면 우상단 gradle탭으로 들어가 의존성들이 잘 받아졌는지 확인
 
-![Gradle tab](/assets/images/SpringBoot/1/GradleTab.PNG)
+![Gradle tab](/assets/images/1/GradleTab.PNG)
 
 
 

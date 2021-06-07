@@ -17,7 +17,7 @@ toc_label: 목차
 
 TDD는 말 그대로 테스트가 주도하는 개발인데 그림으로 보는게 이해가 빠르다
 
-![TDD](/assets/images/SpringBoot/2/TDD.png)
+![TDD](/assets/images/2/TDD.png)
 
 레드 그린 사이클이라 하던데 그것까진 잘 모르겠고, 진행과정은 다음과 같다.
 1. 실패하는 테스트를 먼저 작성
@@ -62,7 +62,7 @@ TDD랑은 다르게 테스트 코드를 작성하는 것만을 의미하므로 �
 
 ### 메인 클래스 작성
 
-![Mainclass](/assets/images/SpringBoot/2/mainclass.PNG)
+![Mainclass](/assets/images/2/mainclass.PNG)
 
 우선 처음 프로젝트를 생성할 때 설정한 [Group ID.프로젝트명]으로 패키지를 생성하고, [Application] 이라는 이름으로 Java 클래스를 생성해 다음과 같이 코드를 작성한다.
 
@@ -124,7 +124,7 @@ public class HelloController {
 
 ## 5. 테스트 코드 작성
 
-![TDD](/assets/images/SpringBoot/2/testclass.PNG)
+![TDD](/assets/images/2/testclass.PNG)
 
 HelloController의 패키지와 같은 패키지를 main이 아닌 test아래에 생성 후 HelloControllerTest 클래스를 작성한다.
 
@@ -186,11 +186,11 @@ public class HelloControllerTest {
 
 테스트에 통과하면 다음과 같이 Tests passed가 뜬다
 
-![TDD](/assets/images/SpringBoot/2/pass.PNG)
+![TDD](/assets/images/2/pass.PNG)
 
 실제로도 잘 출력되는 것을 확인할 수 있다.
 
-![TDD](/assets/images/SpringBoot/2/result.PNG)
+![TDD](/assets/images/2/result.PNG)
 
 
 
