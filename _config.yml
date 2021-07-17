@@ -107,9 +107,6 @@ author:
     - label: "Website (Japanese)"
       icon: "fas fa-fw fa-link"
       url: "http://mognex.blog.jp"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/xengomdec"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/xengom"
@@ -119,7 +116,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:xengom@naver.com
+      url: mailto:xengom@gmail.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/xengomdec"
