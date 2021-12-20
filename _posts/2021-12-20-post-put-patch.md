@@ -1,6 +1,6 @@
 ---
 title: POST, PUT, PATCH의 차이
-category: HTTP
+category: RESTAPI
 tags:
 - post
 - put
