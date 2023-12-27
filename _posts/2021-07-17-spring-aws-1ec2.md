@@ -1,6 +1,6 @@
 ---
 title: Spring 프로젝트 AWS 배포(1)EC2설정
-category: AWS
+category: cloneCoding
 tags:
 - EC2
 - putty

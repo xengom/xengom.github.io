@@ -1,11 +1,11 @@
 ---
-category: AWS
+title: Spring 프로젝트 AWS 배포(2)RDS설정
+category: cloneCoding
 tags:
 - EC2
 - RDS
 - MySQL
 - MariaDB
-title: Spring 프로젝트 AWS 배포(2)RDS설정
 ---
 
 # RDS

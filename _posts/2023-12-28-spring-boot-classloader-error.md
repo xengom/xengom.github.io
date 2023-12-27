@@ -1,10 +1,10 @@
 ---
 title: Spring Boot 구동 시, ClassLoader Error 발생
-category: Springboot
+category: troubleShooting
 tags:
 - spirng
 - springboot
-- troubleShooting
+- classLoader
 ---
 
 # 에러 로그

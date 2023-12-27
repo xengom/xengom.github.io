@@ -1,6 +1,6 @@
 ---
 title: Jekyll 블로그 구글 서치 콘솔(Google Search Console) Sitemap 가져올 수 없음 문제 해결
-category: Gitblog
+category: troubleShooting
 tags:
 - Github
 - Page

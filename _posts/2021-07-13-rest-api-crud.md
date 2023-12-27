@@ -1,6 +1,6 @@
 ---
 title: REST API, CRUD
-category: RESTAPI
+category: devKnowledge
 tags:
 - REST
 - CRUD

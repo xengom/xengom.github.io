@@ -1,12 +1,12 @@
 ---
+title: Java11버전 사용시 javax/xml/bind/JAXBException 에러
 toc: false
-category: JPA
+category: troubleShooting
 tags:
 - xml
 - JPA
 - maven
 - JAXB
-title: Java11버전 사용시 javax/xml/bind/JAXBException 에러
 ---
 
 ![에러](/assets/images/15/error.PNG)

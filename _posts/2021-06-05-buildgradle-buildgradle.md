@@ -1,6 +1,6 @@
 ---
 title: build.gradle 파헤치기 (build.gradle 수동설정)
-category: Springboot
+category: devKnowledge
 tags:
 - gradle
 - spirng

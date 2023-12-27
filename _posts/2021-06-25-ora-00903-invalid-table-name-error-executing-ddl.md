@@ -6,7 +6,7 @@ tags:
 - SQL
 - ORA-00903
 - DDL
-category: SQL
+category: troubleShooting
 ---
 
 스프링 연관관계를 통해 게시판에 쓰일 5 개의 테이블을 생성하는데 Comment와 View, 2 개의 테이블만이 생성이 제대로 되지 않았다.

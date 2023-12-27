@@ -9,7 +9,7 @@ tags:
 - Dialect
 - Oracle
 - JDBC
-category: SQL
+category: troubleShooting
 ---
 
 ~~~java

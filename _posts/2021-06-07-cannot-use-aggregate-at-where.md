@@ -1,6 +1,6 @@
 ---
 title: Where절에서 집계함수 사용불가.
-category: SQL
+category: troubleShooting
 tags:
 - Oracle
 - Oracle11g

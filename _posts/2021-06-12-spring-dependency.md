@@ -1,6 +1,6 @@
 ---
 title: 스프링 의존관계 설정
-category: Spring
+category: devKnowledge
 tags:
 - spirng
 - dependency

@@ -1,6 +1,6 @@
 ---
 title: VO vs DTO, DAO vs Repository, 그리고 Domain과 프로젝트 구조
-category: Spring
+category: devKnowledge
 tags:
 - spring
 - DTO

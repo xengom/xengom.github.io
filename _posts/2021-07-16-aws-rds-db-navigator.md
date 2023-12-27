@@ -8,7 +8,7 @@ tags:
 - AWS
 - RDS
 - EC2
-category: AWS
+category: troubleShooting
 ---
 
 책에서 하라는 대로 다 설정했는데도 DB Navigator에서 Connection error를 발생시켰다.

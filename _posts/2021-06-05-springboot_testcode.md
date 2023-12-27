@@ -1,7 +1,7 @@
 ---
 title: Spring Boot에서 Test Code 작성하기
 toc_sticky: true
-category: Springboot
+category: devKnowledge
 tags:
 - springboot
 - testcode

@@ -5,7 +5,7 @@ tags:
 - EC2
 - Putty
 - Linux
-category: AWS
+category: troubleShooting
 ---
 
 ./gradlew : Permission Denied

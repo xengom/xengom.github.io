@@ -1,6 +1,6 @@
 ---
 title: 연관관계 매핑(ManyToOne, OneToMany)
-category: JPA
+category: devKnowledge
 tags:
 - OneToMany
 - ManyToOne

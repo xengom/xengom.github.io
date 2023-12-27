@@ -1,10 +1,10 @@
 ---
-category: AWS
+title: Spring 프로젝트 AWS 배포(3)EC2서버에 배포하기
+category: cloneCoding
 tags:
 - EC2
 - Shell
 - Deploy
-title: Spring 프로젝트 AWS 배포(3)EC2서버에 배포하기
 ---
 
 # 배포

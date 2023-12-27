@@ -1,7 +1,7 @@
 ---
 title: google 로그인 시 username이 사용자 컴퓨터 이름으로 나오는 문제
 toc: false
-category: Spring
+category: troubleShooting
 tags:
 - spirng
 - springboot
@@ -88,4 +88,4 @@ user로 변경하니 잘 된다.
 
 
 
-참조 :
+참조 : [깃헙링크](https://github.com/jojoldu/freelec-springboot2-webservice/issues/549)

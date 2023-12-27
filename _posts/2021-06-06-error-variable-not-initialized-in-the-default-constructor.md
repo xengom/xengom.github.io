@@ -6,7 +6,7 @@ tags:
 - testcode
 - spirng
 - lombok
-category: Springboot
+category: troubleShooting
 ---
 
 HelloResponseDto.java

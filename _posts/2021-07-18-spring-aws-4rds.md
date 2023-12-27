@@ -1,6 +1,6 @@
 ---
 title: Spring 프로젝트 AWS 배포(4)RDS 접근
-category: AWS
+category: cloneCoding
 tags:
 - RDS
 - properties
