@@ -9,7 +9,7 @@ title_separator          : "&#124;" # 타이틀 사이 구분자 <title>Welcome 
 subtitle                 : "DeC + Coding" # 타이틀 아래에 나올 작은 글씨
 name                     : "DeC" # 맨 하단 이름 찍히는 영역
 description              : "Studying Codes" # Meta 태그에 들어가는 영역
-url                      : "https://xengom.com" # GitBlog 호스트 주소
+url                      : "https://mognex.com" # GitBlog 호스트 주소
 baseurl                  :
 repository: "xengom/blog-comment"
 teaser                   : "/assets/images/icon.jpg" # 홈페이지 기본 티져 이미지
